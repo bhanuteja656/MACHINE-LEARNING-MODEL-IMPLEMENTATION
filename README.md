@@ -43,4 +43,4 @@ Overall, I successfully built a spam detection system using Scikit-learn and TF-
 
 #OUTPUT
 
-<img width="996" height="487" alt="Image" src="https://github.com/user-attachments/assets/46428ac6-e1ff-4591-adf6-31088de4378c" />
+<!-- Uploading "Screenshot 2025-07-19 at 11.44.48 AM.png"... -->
